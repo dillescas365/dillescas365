@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-* 🎓 I'm a Software Developer passionate about 🎮 videogames, 🔐 cryptography and microcontrollers.
+* 🎓 I'm a Software Developer passionate about 🎮 videogames, 🔐 cryptography and microcontrolers.
 * 🌱 I’m currently learning C++ for game development.
 * 📫 How to reach me: dillescas365@gmail.com
 
