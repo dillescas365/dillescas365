@@ -8,9 +8,7 @@
 
 ---
 ### 🔥 My Tech Stack 
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)|
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
 ---
 
 ### 📈 My GitHub Stats
